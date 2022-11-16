@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nilesh_10820" target="blank"><img src="https://img.shields.io/twitter/follow/nilesh_10820?logo=twitter&style=for-the-badge" alt="nilesh_10820" /></a> </p>
 
-- 🔭 I’m currently working on **EVM**
+- 🔭 I’m currently working on **Improving my skills**
 
 - 🌱 I’m currently learning **Advanced DSA**
 
