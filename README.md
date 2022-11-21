@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm NileshVerma001</h1>
+<h1 align="center">Hi 👋, I'm NileshVerma00</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4502924-Python-developer-animation">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshverma001&label=Profile%20views&color=0e75b6&style=flat" alt="nileshverma001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nilesh_10820" target="blank"><img src="https://img.shields.io/twitter/follow/nilesh_10820?logo=twitter&style=for-the-badge" alt="nilesh_10820" /></a> </p>
 
-- 🔭 I’m currently working on **Improving my skills**
+- 🔭 I’m currently working on **EVM**
 
 - 🌱 I’m currently learning **Advanced DSA**
 
@@ -17,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nilesh_10820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilesh_10820" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nilesh-verma-76b045251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh-verma-76b045251" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nilesh-verma-21400b233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh-verma-21400b233" height="30" width="40" /></a>
 <a href="https://instagram.com/_nil.esh_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nil.esh_v" height="30" width="40" /></a>
 </p>
 
