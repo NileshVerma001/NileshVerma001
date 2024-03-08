@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nilesh_10820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilesh_10820" height="30" width="40" /></a>
+<a href="https://twitter.com/NileshVerma001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilesh_10820" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nilesh-verma-21400b233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh-verma-21400b233" height="30" width="40" /></a>
-<a href="https://instagram.com/_nil.esh_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nil.esh_v" height="30" width="40" /></a>
+<a href="https://instagram.com/nilessshhhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nil.esh_v" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
